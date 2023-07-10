@@ -1,0 +1,49 @@
+Name: w
+Phone Number: 9353660658
+Address: w
+Call Duration: 3
+Data Usage: 4
+Total Bill: 188
+----------------------------
+Name: a
+Phone Number: 9353660655
+Address: s
+Call Duration: 1
+Data Usage: 1
+Total Bill: 62
+----------------------------
+Name: e
+Phone Number: 9353660656
+Address: r
+Call Duration: 5
+Data Usage: 6
+Total Bill: 312
+----------------------------
+Name: ert
+Phone Number: 9353660640
+Address: rtty
+Call Duration: 45
+Data Usage: 89
+Total Bill: 2878
+----------------------------
+Name: ert
+Phone Number: 9353660630
+Address: rtty
+Call Duration: 45
+Data Usage: 89
+Total Bill: 2878
+----------------------------
+Name: ert
+Phone Number: 9353660639
+Address: rtty
+Call Duration: 45
+Data Usage: 89
+Total Bill: 2878
+----------------------------
+Name: ert
+Phone Number: 9353660623
+Address: rtty
+Call Duration: 45
+Data Usage: 89
+Total Bill: 2878
+----------------------------
